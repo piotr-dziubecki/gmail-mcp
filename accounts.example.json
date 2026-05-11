@@ -1,0 +1,13 @@
+{
+  "accounts": {
+    "defdone": {
+      "tokenPath": "~/.gmail-multi-mcp/tokens/defdone.json"
+    },
+    "private": {
+      "tokenPath": "~/.gmail-multi-mcp/tokens/private.json"
+    },
+    "hifisync": {
+      "tokenPath": "~/.gmail-multi-mcp/tokens/hifisync.json"
+    }
+  }
+}
